@@ -48,5 +48,5 @@ A comprehensive command-line Library Management System built in Python that help
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/np03cs4a240035-commits/Library-Management
 cd library-management-system
